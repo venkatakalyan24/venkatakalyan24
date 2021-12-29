@@ -2,7 +2,7 @@
 
 I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
 
-- 🔭 Deep Learning and Coding Enthusiast
+- 🔭 Deep Learning and Programming Enthusiast
 - 💡 Currently persuing my fourth year of Bachelor of Technology in **Computer Science** at **Indian Institute of Information Technology Dharwad**.
 - 🌈 **Areas of Interest** : Devops,Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
 - 💬 Ask me about anything i am open to everyone  
